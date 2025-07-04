@@ -1,0 +1,26 @@
+task 8
+
+VPN used: proton VPN
+
+downloaded the proton vpn from the official website containing the free plan
+
+my current ip address before connecting to the vpn : 152.58.1.147
+
+after connecting the country netherland ip address : 185.132.133.222(also verified by whatismyipaddress)
+(screenshots provided)
+
+connection was secure since after connecting could access a https website
+
+After disconnecting:
+IP address reverted to my original.
+Browsing speed was noticeably faster without VPN.
+
+
+While using ProtonVPN, I learned that good VPNs use strong encryption (like AES-256) to keep your internet data safe. This means even if someone tries to spy on you (like on public Wi-Fi), they won’t see what you’re doing. ProtonVPN also doesn’t keep logs of your activity, which is important for privacy. It uses secure protocols like OpenVPN and WireGuard, and has extra features like a kill switch to protect you if the VPN disconnects suddenly.
+
+
+My Summary – VPN Benefits & Limitations
+VPNs are great for protecting your privacy online, especially on public networks. They hide your IP address and help you access content from other countries. I could tell my data was encrypted, and my location was hidden while browsing.
+
+But I also noticed that VPNs can slow down your internet, especially if you're using a free one. Some websites might not work properly, and free VPNs don’t offer as many server choices. Still, for basic privacy and security, a trustworthy free VPN like ProtonVPN is a solid choice.
+
